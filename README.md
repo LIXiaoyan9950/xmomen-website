@@ -2,4 +2,4 @@
 新墨门工作室以墨家思想为宗旨，以网络技术为工具，传播墨家宗义，弘扬华夏文明，天下皆白，唯我独黑，非攻墨门，兼爱平生。
 
 # 站点演示
-[新墨门工作室](https://xmomen.github.io/xmomen-website)
+[新墨门工作室](http://xmomen.github.io/xmomen-website)
